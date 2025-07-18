@@ -1,1 +1,1 @@
-Noter (dot) VJSP [Built by Amogha Raj Sandur]
+[Noter (dot) VJSP](https://amogharajsandur.github.io/Noter.vjsp/) [Built by [Amogha Raj Sandur](https://www.linkedin.com/in/amogharajsandur/)] is a simple note taking app, built in Vanilla JavaScript.
